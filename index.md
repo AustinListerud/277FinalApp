@@ -1,5 +1,5 @@
 ## Bumper Tennis
 
-A Pong clone where surprises lurk the more points you score!
+A Pong clone where surprises lurk as you score more points
 
 
