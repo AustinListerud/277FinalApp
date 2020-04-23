@@ -1,4 +1,6 @@
-This project is a Pong clone with a few changes. To get the program to run you will need to get the project in your IDE set up to run SDL2.
+This project is a Pong clone with a few changes. 
+
+To get the program to run you will need to get the project in your IDE set up to run the SDL2 framework.
 
 bumpertennis.cpp contains the main function
 
